@@ -1,0 +1,100 @@
+Feedback Form: https://forms.gle/kEgWVSjeH9kMPb5AA
+Attendance Sheet: https://docs.google.com/spreadsheets/d/1_dY6V8vwEnhWGlaJTJJ6BpW2VIArihkdI-eU6tTTiP0/edit?resourcekey=&gid=924503105#gid=924503105
+
+
+
+
+
+
+Random Student Selector: file:///Users/prathagu/Desktop/MERN/mern-course/student_selector/select_student.html
+Terminal: file:///Users/prathagu/Desktop/MERN/mern-course/terminal/index.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://melodious-cranachan-45038b.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Context API in react: https://www.youtube.com/watch?v=73Tz6qTgNuU
+Context API Hitesh: https://www.youtube.com/watch?v=aAcI_FdfkA8
+Context API Ninja: https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
+React Auth using context API: https://www.youtube.com/watch?v=WsRBmwNkv3Q&list=PL4cUxeGkcC9g8OhpOZxNdhXggFz2lOuCT&index=1
+React Auth kit 5 min: https://www.youtube.com/watch?v=wr3VmbZdVA4
+
+
+
+Modern React: https://www.youtube.com/watch?v=pnhO8UaCgxg&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=4
+React 3hr: https://www.youtube.com/watch?v=LDB4uaJ87e0
+
+
+yhi hoo main: https://www.youtube.com/watch?v=0cGj4prWlFk
